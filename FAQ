@@ -1,11 +1,13 @@
-Blocking by ip.
+Blocking by ip - #. Change *** to needed.
+Temporary removed: yippy.com, ask.com, startpage.com, searchencrypt.com, onesearch.com, blekko.com, discretesearch.com, zillow.com, trulia.com, rightmove.co.uk, realtor.com, home.co.uk, yacy.net
+Same: ixquick.com (startpage)
 
-topix.com, blocked "Limited to the United States only."
+#topix.com, blocked "Limited to the United States only."
 
-zabasearch.com:
-For people search, First and Last name - https://www.zabasearch.com/people/First1+Last2/
-Phone search - https://www.zabasearch.com/phone/5555555555
+#zabasearch.com:
+For people search, First and Last name - https://www.zabasearch.com/people/***+***/
+Phone search - https://www.zabasearch.com/phone/***
 
-ussearch.com:
-First and Last name, city - https://www.ussearch.com/search/?firstName=12345&lastName=12345&city=&state=Select+state
-Phone search - https://www.ussearch.com/phone/search/?phone=4444444444
+#ussearch.com:
+First and Last name, city - https://www.ussearch.com/search/?firstName=***&lastName=***&city=&state=Select+state
+Phone search - https://www.ussearch.com/phone/search/?phone=***
