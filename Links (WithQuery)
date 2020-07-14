@@ -4,7 +4,7 @@ https://duckduckgo.com/?q=
 https://www.bing.com/search?q=
 https://www.dogpile.com/serp?q=
 https://scholar.google.com/scholar?q=
-ttps://search.webopedia.com/serp?q=
+https://search.webopedia.com/serp?q=
 https://search.yahoo.com/search?p=
 https://archive.org/search.php?query=
 https://archive.org/details/tv?q=
@@ -56,9 +56,6 @@ https://www.oscobo.com/search.php?q=
 https://www.oscobo.com/images.php?q=
 https://www.oscobo.com/videos.php?q=
 https://www.oscobo.com/maps.php?q=
-http://jexamples.com/fwd?action=srchRes&queryText=
-http://opensearch.krugle.org/document/search/#query=
-http://www.shopwiki.com/q/
 https://shopping.com/search.html?keyword=
 https://www.retailmenot.com/s/
 https://www.mysimon.com/shopping?q=
@@ -72,9 +69,12 @@ https://www.ehow.com/search?q=
 https://www.answers.com/Q/
 https://xapian.org/search?P=
 https://search.fandom.com/wiki/Special:Search?query=
-http://www.mnogosearch.org/search/index.html?q=
 https://sematext.com/opensee/lucene?q=
 https://www.fandom.com/?s=
 https://news.search.yahoo.com/search?p=
 https://newslookup.com/results?ovs=1&dp=&mt=-1&mtx=0&tp=720&s=&groupby=no&cat=-1&fmt=&ut=&mkt=0&mktx=0&q=
 http://magportal.com/cgi/search.cgi?b=0&q=
+http://jexamples.com/fwd?action=srchRes&queryText=
+http://opensearch.krugle.org/document/search/#query=
+http://www.shopwiki.com/q/
+http://www.mnogosearch.org/search/index.html?q=
